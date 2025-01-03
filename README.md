@@ -5,7 +5,7 @@ http://helldoc.blogspot.com
 
 Funktion:
 -----------
-
+Require .Net Framework 3.5
 - XEX Support (Decryption/Decompression)
 - Extract XUIZ files (xur, png...) included mostly in the dashboard xex.
 - Extract XBDF files (GPD)
