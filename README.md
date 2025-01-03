@@ -1,5 +1,5 @@
 # XeXtractor
-XeXtractor is a generic XEX tool box. from HellDoc
+XeXtractor is a generic XEX tool box for XBox360 from HellDoc
 
 http://helldoc.blogspot.com
 
