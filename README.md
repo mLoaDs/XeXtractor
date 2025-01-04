@@ -12,7 +12,7 @@ Require .Net Framework 3.5
 - XSRC Support ( original xlast file)
 - Convert XSTR to readable txt file
 - XACH and XITB Support (achievements)
-- Included Source code for : XACH,XDBF,XEX2,XITB,XSRC,XSTR,XUI
+- Included Source code for : XACH,XDBF,XEX2,XITB,XSRC,XSTR,XUIZ
 
  ![XeXtractorv1 03-b](https://github.com/user-attachments/assets/534eff48-5ffc-471b-a4a3-36804e19bd25)
 
